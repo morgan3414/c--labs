@@ -1,9 +1,7 @@
-﻿namespace helloword
-{
-    internal class Program
-    {
-        public static void Main(string[] args)
-        {
-        }
+﻿using System;
+class helloword { 
+    public static void Main () {
+        Console.WriteLine("Hello World");
     }
 }
+    
